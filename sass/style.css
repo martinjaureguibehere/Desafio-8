@@ -1,0 +1,20 @@
+body {
+  background-color: orange;
+}
+
+body footer {
+  background-color: firebrick;
+}
+
+body footer div {
+  background-color: firebrick;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+body footer div nav {
+  border: 1px;
+}
+
+body footer div nav a {
+  color: black;
+}
